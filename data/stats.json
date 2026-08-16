@@ -1,0 +1,40 @@
+{
+  "snapshot_date": "2026-08-16",
+  "total": 1648,
+  "active": 775,
+  "expired": 873,
+  "by_type": {
+    "PEMIN": 76,
+    "SZI_NSD": 171,
+    "ME": 220,
+    "ACOUSTIC": 29,
+    "SCAN": 8,
+    "OS": 33,
+    "SDZ": 18,
+    "SOV": 44,
+    "SAVZ": 33,
+    "SKZI": 3,
+    "DBMS": 29,
+    "SIEM": 14,
+    "VIRT": 23,
+    "SKN": 8,
+    "BACKUP": 1
+  },
+  "by_control": {
+    "AD": 106,
+    "L": 46,
+    "DZ": 62,
+    "FW": 62,
+    "A": 25,
+    "IDS": 44,
+    "DS": 2,
+    "TE": 2,
+    "R": 2
+  },
+  "by_validity": {
+    "dated": 1422,
+    "perpetual": 217,
+    "suspended": 9
+  },
+  "with_protection_class": 516
+}

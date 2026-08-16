@@ -1,0 +1,67 @@
+name: Rebuild SQLite from registry CSV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/reg3.csv"
+      - "scripts/build_db.py"
+      - ".github/workflows/build-db.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Determine snapshot date
+        id: snap
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Build SQLite snapshot
+        run: |
+          python scripts/build_db.py \
+            --csv data/reg3.csv \
+            --db data/szi.sqlite \
+            --stats data/stats.json \
+            --snapshot-date "${{ steps.snap.outputs.date }}"
+
+      - name: Verify database
+        run: |
+          python - <<'PY'
+          import sqlite3, sys
+          db = sqlite3.connect("data/szi.sqlite")
+          total = db.execute("SELECT COUNT(*) FROM certificates").fetchone()[0]
+          active = db.execute("SELECT COUNT(*) FROM certificates WHERE is_active=1").fetchone()[0]
+          links = db.execute("SELECT COUNT(*) FROM certificate_controls").fetchone()[0]
+          fts = db.execute("SELECT COUNT(*) FROM certificates_fts").fetchone()[0]
+          print(f"certificates={total} active={active} control_links={links} fts_rows={fts}")
+          if total < 1000:
+              sys.exit(f"подозрительно мало записей: {total}")
+          if fts != total:
+              sys.exit(f"FTS рассинхронизирован: {fts} != {total}")
+          if active == 0:
+              sys.exit("нет ни одного действующего сертификата")
+          PY
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/szi.sqlite data/stats.json
+          if git diff --staged --quiet; then
+            echo "изменений нет"
+          else
+            git commit -m "data: пересборка снапшота ${{ steps.snap.outputs.date }}"
+            git push
+          fi
