@@ -14,7 +14,7 @@ Kaspersky Endpoint Security для Windows;Лаборатория Касперс
 Kaspersky Endpoint Security для ОС Аврора;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;публичного прайса нет, только техдокументация
 Kaspersky Endpoint Detection and Response;Лаборатория Касперского;4491;4491;RUB;per_node;https://store.softline.ru/kaspersky/kl4708ratfs-292183/;reseller;KL4708RATFS, EDR Оптимальный, 12 мес., 4491 за узел при 250-499 узлах. Цены для меньших объёмов не раскрыты
 Kaspersky Endpoint Security для Linux (исполнение ARM);Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;реселлеры не разделяют лицензии по архитектуре
-Kaspersky Security для виртуальных сред 6.4 Лёгкий агент;Лаборатория Касперского;2673.9;2673.9;RUB;per_node;https://store.softline.ru/kaspersky/kl4155rasfs-160794/;reseller;KL4155RASFS Desktop (Лёгкий агент), 12 мес., 2673.90 за 1 вирт. рабочую станцию при 150-249. Версия 6.4 на странице явно не указана
+Kaspersky Security для виртуальных сред 6.4 Лёгкий агент;Лаборатория Касперского;2673.9;5998.50;RUB;per_node;https://store.softline.ru/kaspersky/kaspersky-security-for-virtualization/;reseller;сведены две точки одной сетки: 5998.50 за 2 года и 3749.94 за год при закупке от 10 станций, 2673.90 за год при 150-249 станций (SKU KL4155RASFS). Соответствие версии 6.4 на страницах не указано
 Kaspersky IoT Secure Gateway;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;k-integration: цена по запросу, ПАК на базе Kraftway
 Kaspersky Next Generation Firewall;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;все модели KX-100/400/1000/3500 — «запросить цену»
 Secret Net Studio;Код Безопасности;5517;7671;RUB;yearly;https://store.softline.ru/kod-bezopasnosti/kod-bezopasnosti-secret-net-studio/;reseller;за 1 лицензию, зависит от пакета защиты (Базовый/Оптимальный/Максимальный) и объёма 1-50
@@ -61,3 +61,74 @@ VPN/FW ЗАСТАВА-1500;ЭЛВИС-ПЛЮС;;;RUB;appliance;;NOT_FOUND;цен
 Аккорд-Win64 K;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;стоимость по запросу, публичных прайсов нет
 ПАК СЗИ НСД Аккорд-Х;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;цена считается индивидуально (open-vision, pro-spec)
 Модуль доверенной загрузки Аккорд-МКТ;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;поставляется в составе микрокомпьютера при производстве
+ROSA Virtualization 3.0;НТЦ ИТ РОСА;7576100;7576100;RUB;bundle;https://e2e4online.ru/catalog/item/litsenziya-rosa-programmnaya-sistema-rosa-virtualization-1325970/;reseller;ЦЕНА ЗА КОМПЛЕКТ: бессрочная базовая лицензия на 50 ВМ с 5 годами поддержки. На Softline версия 2.1 ФСТЭК от 492200 за 1 хост
+Ревизор 1 ХР;ЦБИ-сервис;1420;1420;RUB;yearly;http://prp.su/prices-order/tsenyi/sredstvo-sozdaniya-modeli-sistemyi-razgranicheniya-dostupa-revizor-1-hr;reseller;минимальный старт: 400 установочный комплект + 1020 лицензия на 1 год на 1 компьютер. Продление 480/год
+Ideco UTM;Айдеко Софтвер;86250;258750;RUB;yearly;https://is.astral.ru/product/mezhsetevye-ekrany/ideco-utm-enterprise/;reseller;редакция Enterprise за 1 год: 86250 на 50 пользователей, 129375 на 75, 172500 на 100, 258750 на 150. От 200 пользователей цена по запросу
+Aladdin TSM ARM;Аладдин Р.Д.;;;RUB;unknown;;NOT_FOUND;поставка только по КП, открытых цен нет
+Межсетевой экран ИВК КОЛЬЧУГА-К;ИВК;;;RUB;appliance;;NOT_FOUND;у реселлера «цена по запросу» для К03, на К01/К02 цен нет
+Электронный замок ВИТЯЗЬ версия 2.2;Крафтвэй;;;RUB;unknown;;NOT_FOUND;цена уточняется менеджером
+KOMRAD Enterprise SIEM;НПО Эшелон;;;RUB;unknown;;NOT_FOUND;Softline: цена по запросу из-за особенностей лицензирования
+Сервисный маршрутизатор КРПГ.465614.004;НПП Исток;;;RUB;appliance;;NOT_FOUND;вендор цены не публикует
+Комплекс межсетевой экран Solar;Солар Секьюрити;;;RUB;unknown;;NOT_FOUND;цена по запросу у всех проверенных площадок
+Zecurion DLP Enterprise RV;СекьюрИТ;;;RUB;per_node;;NOT_FOUND;все продукты Zecurion помечены «запросить цену»
+Базовый доверенный модуль;ЭЛВИС-ПЛЮС;;;RUB;unknown;;NOT_FOUND;гибкая схема поставки, цен вендор не публикует
+Ребус-СДЗ;НИИ ЦПС;;;RUB;per_node;;NOT_FOUND;вендор цену не публикует
+ППО защиты от НСД ЕАИСТ;Инфогород;;;RUB;unknown;;NOT_FOUND;ведомственная разработка, в свободной продаже отсутствует
+Типовой программный компонент авторизации и разграничения доступа;Минцифры России;;;RUB;unknown;;NOT_FOUND;государственный типовой компонент, коммерческих каналов нет
+Интернет Контроль Сервер;А-Реал Консалтинг;;;RUB;per_node;;NOT_FOUND;Softline: цена по запросу; бесплатна версия до 9 пользователей
+AVSOFT ATHENA;АВ Софт;;;RUB;unknown;;NOT_FOUND;лицензирование по модулям и нагрузке, только КП
+Комплекс ФПСУ версии 3;АМИКОН;;;RUB;appliance;;NOT_FOUND;страницы прайса вендора отдают 404
+Аркан 2.0;АСП Лабс;;;RUB;unknown;;NOT_FOUND;прайс не публикуется
+U-SIEM;Амбрелла;;;RUB;unknown;;NOT_FOUND;стоимость формируется индивидуально
+BI.ZONE WAF;БИЗон;;;RUB;yearly;;NOT_FOUND;расчёт от RPS и числа приложений, «по запросу»
+BI.ZONE EDR;БИЗон;;;RUB;per_node;;NOT_FOUND;цена по запросу у Softline, Syssoft, Астрал
+Платформа защиты веб-приложений Вебмониторэкс;ВЕБМОНИТОРЭКС;;;RUB;unknown;;NOT_FOUND;оценка стоимости по анкете
+Mail.Ru Cloud Firewall;ВК Цифровые Технологии;;;RUB;unknown;;NOT_FOUND;в прайсе VK Cloud отдельной позиции нет, идёт как функция платформы
+Smart Monitor;ВолгаБлоб;;;RUB;perpetual;;NOT_FOUND;вендор заявляет открытый прайс, но страница не отдаётся; лицензирование в Smart Unit
+Страж NT версия 4.0;РУБИНТЕХ;5000;7500;RUB;per_node;https://store.softline.ru/guardnt/straj-nt/;reseller;за 1 лицензию на АРМ: 7500 при 1-10 шт, снижение до 5000 при 1001+. Отдельно: терминальная 2800, обновление 3750, обязательный установочный комплект 500
+1С:Предприятие 8z;НПЦ 1С;83000;684000;RUB;bundle;https://v8.1c.ru/price/;vendor;ЦЕНА ЗА КОРОБКУ, не за рабочее место: Исполнение 1 — 83000, Исполнение 2 — 684000. Официальный прайс 1С. Вариант x86-32 Исполнение 1 у реселлера — 27800
+Ассистент версия 2;САФИБ;36000;648000;RUB;bundle;https://xn--80akicokc0aablc.xn--p1ai/;vendor;ЦЕНА ЗА РЕДАКЦИЮ: Свобода 36000 (1 соединение), Бизнес 87000 (3), Корпорация 158000 (5), Корпорация+ 396000, Корпорация+ФСТЭК 648000 — для сертифицированных задач релевантна последняя. Прайс текущей линейки, отдельного на версию 2 нет
+Антивирус VR Protect для Linux;Вычислительные решения;;;RUB;unknown;;NOT_FOUND;k-integration и platforms.su: все редакции «по запросу»
+VR Protect для Linux версия 2.0.0;Вычислительные решения;;;RUB;unknown;;NOT_FOUND;версия подтверждается только реестром, торговых площадок с ценой нет
+ARMlock;Вэлл-Сервис;;;RUB;unknown;;NOT_FOUND;у реселлера «рассчитывается индивидуально»
+Гарда NDR;Гарда Технологии;;;RUB;unknown;;NOT_FOUND;лицензирование по объёму трафика, только форма обратной связи
+Гарда DLP;Гарда Технологии;;;RUB;unknown;;NOT_FOUND;проверены rtmtech, snabsoft, softline, syssoft — цены нет
+Гарда WAF;Гарда Технологии;;;RUB;unknown;;NOT_FOUND;лицензируется по RPS, «предоставляется по запросу»
+ПАК Фортикс;ЗТС;;;RUB;unknown;;NOT_FOUND;публичного прайса нет
+Security Capsule SIEM;ИТБ;;;RUB;unknown;;NOT_FOUND;модели лицензирования описаны без сумм; «250-300 тыс.» из сниппетов при прямой проверке не подтвердились
+InfoWatch ARMA Стена;ИнфоВотч АРМА;;;RUB;unknown;;NOT_FOUND;Softline, syssoft, sm-security — цена по запросу
+Система сетевой безопасности Mirada;КДМ;;;RUB;unknown;;NOT_FOUND;у дистрибьютора только «узнать цену», расчёт КП под проект
+Подсистема защиты информации Экзамус;КИТ;;;RUB;unknown;;NOT_FOUND;у реселлеров не представлен; выдача подменяется одноимённой системой прокторинга другого правообладателя — её цены неприменимы
+CoreBit.NGFW;КорБит;;;RUB;unknown;;NOT_FOUND;продаётся проектно, цена не опубликована
+InfoWatch Traffic Monitor версия 7.9;Лаборатория ИнфоВотч;;;RUB;unknown;;NOT_FOUND;Softline, syssoft, spectrasoft — «цена по запросу»
+Numa Edge;НумаТех;;;RUB;perpetual;;NOT_FOUND;Syssoft: тип лицензии «постоянная», но цена по запросу
+Средство доверенной загрузки Аврора;Открытая мобильная платформа;;;RUB;unknown;;NOT_FOUND;стоимость считается индивидуально; «10000» из сниппетов не подтвердилось
+Межсетевой экран ESR-21;ЭЛТЕКС;;;RUB;appliance;;NOT_FOUND;продаётся проектно с указанием объекта внедрения
+Межсетевой экран ESR-20;ЭЛТЕКС;;;RUB;appliance;;NOT_FOUND;пять реселлеров дают «по запросу»; найденная в поисковом индексе цифра 647916 не подтверждена прямой проверкой (антибот), поэтому НЕ засчитана
+R-Vision SIEM;Р-Вижн;;;RUB;unknown;;NOT_FOUND;лицензирование по событиям/устройствам, только форма расчёта
+RuBackup;РУБЭКАП;;;RUB;unknown;;NOT_FOUND;11 SKU у syssoft, все «цена по запросу»
+RuSIEM 2.x;РуСИЕМ;;;RUB;unknown;;NOT_FOUND;Syssoft, allsoft, Softline — по запросу
+RuSIEM WAF;РуСИЕМ;;;RUB;unknown;;NOT_FOUND;масштабирование от 1 до 100000 RPS, прайс не публикуется
+Межсетевой экран Русплатформа R81.20;Русплатформа;;;RUB;unknown;;NOT_FOUND;продаётся как RusPoint NGFW, «под запрос»
+Traffic Inspector Next Generation;СМАРТ-СОФТ;8816;52895;RUB;yearly;https://www.syssoft.ru/Smart-Soft/Traffic-Inspector-Next-Generation/;reseller;коммерческая лицензия на 1 год: от 5 учётных записей (8816) до 30 (52895). Для госучреждений 7495-44970. Свыше 30 УЗ и ФСТЭК-версия с ПАК — по запросу
+ЭТОС со встроенным СЗИ от НСД;Стройформ;55000;1000000;RUB;yearly;https://etos-pro.ru/;vendor;ЦЕНА ЗА ТИП ЛИЦЕНЗИИ, не диапазон объёма: пользовательская 55000, администратора 65000, разработчика 1000000 за конкурентную лицензию на год. Внедрение считается отдельно
+Diamond ACS;ТСС;40000;40000;RUB;per_node;https://www.anti-malware.ru/products/Diamond-ACS/overview;reseller;40000 из карточки каталога Anti-Malware, конфигурация не расшифрована. Лицензирование по числу АРМ, сервер управления отдельно. У вендора цена по запросу
+межсетевой экран HUAWEI USG6000E (младшая линейка);Техкомпания Хуавэй;113815;1007250;RUB;appliance;https://network.msk.ru/products/mezhsetevoj_ekran_huawei_usg6510e;reseller;диапазон по моделям: USG6510E 113815, USG6605E-B 1007250. Цены с НДС за шасси. ФСТЭК-сертификация оформляется отдельным комплектом и в цену не входит
+межсетевой экран HUAWEI USG12000;Техкомпания Хуавэй;9347792;14863186;RUB;appliance;https://shop.nag.ru/catalog/37474.mezhsetevye-ekrany/51823.usg12004;reseller;USG12004 9347792, USG12008 14863186. Цены за шасси под заказ, подписки IPS/AV/URL не включены
+межсетевой экран HUAWEI USG6000E (старшая линейка);Техкомпания Хуавэй;612000;5924500;RUB;appliance;https://network.msk.ru/products/mezhsetevoj_ekran_huawei_usg6610e;reseller;USG6610E 612000, USG6716E 5924500. Цены с НДС за шасси
+межсетевой экран HUAWEI USG6000F;Техкомпания Хуавэй;651759;1357927;RUB;appliance;https://shop.nag.ru/catalog/37474.mezhsetevye-ekrany/90081.usg6615f;reseller;USG6615F 651759, USG6655F 1357927. Цены за шасси под заказ, срок поставки до 16 недель
+Dionis DPS;Фактор-ТС;53000;178000;RUB;appliance;https://softnhard.ru/product/30/;reseller;младшие серии: DPS 1000 — 53000, DPS 2000 — 178000. Магазин помечает цены ориентировочными. Старшие серии 3000-7000 публичных цен не имеют; конфигурации FW/FWC/FW-IPS и сертификаты ФСБ КС1/КС3 меняют стоимость
+Межсетевой экран UserGate;Юзергейт;213000;229000;RUB;appliance;https://store.softline.ru/entensys/entensys-usergate-utm/;reseller;АКЦИОННАЯ ЦЕНА -50% на NGFW C100: 229000 как отдельный узел, 213000 как 2-я нода кластера. Прайс без скидки 457700 и 383400. Аппаратные платформы D/E/F и ФСТЭК-SKU — по запросу
+CyberLympha DATAPK;СайберЛимфа;;;RUB;unknown;;NOT_FOUND;вендор: «свяжитесь с отделом продаж», у реселлеров цен нет
+Check Point Security Gateway R80.XX на платформе SG15XX;Сертифицированные информационные системы груп;;;RUB;unknown;;NOT_FOUND;у правообладателя корзина без стоимости; цена сертифицированного комплекта в открытых источниках отсутствует
+КИБ СёрчИнформ 6.0;СерчИнформ;;;RUB;unknown;;NOT_FOUND;Softline, Syssoft, ИНФАРС, platforms.su — «цена по запросу»
+SolidWall;СолидСофт;;;RUB;unknown;;NOT_FOUND;страница расчёта содержит только анкету, стоимость индивидуальна
+Diamond VPN/FW;ТСС;;;RUB;unknown;;NOT_FOUND;везде «по запросу»; встречающиеся в выдаче 151407 и 212409 для моделей 4101/4105 ни одной доступной страницей не подтверждаются
+межсетевой экран Аргос FW;ТехАргос;;;RUB;unknown;;NOT_FOUND;у реселлера «цена по запросу», у вендора прайса нет
+Форсайт. Аналитическая платформа;ФОРСАЙТ;;;RUB;unknown;;NOT_FOUND;Allsoft: «временно не поставляется»; «0 руб» на CNews — заглушка, а не цена
+Dionis-NX;Фактор-ТС;;;RUB;unknown;;NOT_FOUND;«по запросу»; официальный магазин с упоминанием 120000 недоступен (DNS не резолвится), цифра не подтверждена
+Falcongaze SecureTower;ФалконГейз;;;RUB;unknown;;NOT_FOUND;все SKU «по запросу», минимальная партия 25 лицензий
+UserGate SIEM;Юзергейт;;;RUB;unknown;;NOT_FOUND;у реселлера «цена по запросу»; «продление от 100000» относится ко всей линейке, а не к продукту
+СОВ Сириус;НТЦ Фобос-НТ;;;RUB;unknown;;NOT_FOUND;публичного прайса нет, сайт продукта недоступен
+СОВ Кречет;НПП Гамма;;;RUB;unknown;;NOT_FOUND;все 9 позиций вендора в Softline — «по запросу»
+Системное ПО Супер-ЭВМ версия 2;РФЯЦ-ВНИИТФ;;;RUB;unknown;;NOT_FOUND;закрытый контур Росатома, в свободную продажу не поступает
