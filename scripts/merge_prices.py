@@ -38,7 +38,7 @@ CREATE TABLE product_prices (
     price_min     REAL,
     price_max     REAL,
     currency      TEXT NOT NULL DEFAULT 'RUB',
-    -- per_node | per_server | perpetual | yearly | appliance | unknown
+    -- per_node | per_server | perpetual | yearly | appliance | bundle | unknown
     license_model TEXT NOT NULL DEFAULT 'unknown',
     source_url    TEXT,
     -- vendor | reseller | procurement | NOT_FOUND

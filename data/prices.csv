@@ -44,8 +44,8 @@ ViPNet Coordinator IG 5;ИнфоТеКС;;;RUB;appliance;;NOT_FOUND;требуе
 С-Терра Шлюз. Версия 5.0;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;цена по запросу
 С-Терра Клиент. Версия 5.0;С-Терра СиЭсПи;;;RUB;per_node;;NOT_FOUND;цена по запросу
 С-Терра Экран-М. Версия 1.0;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;цена по запросу
-Dr.Web Enterprise Security Suite;Доктор Веб;15730;15730;RUB;per_node;https://www.softmagazin.ru/dr-web/lzz-c-12m-10-a3-fst/;reseller;SKU LZZ-*C-12M-10-A3-FST, сертифицированный ФСТЭК комплект на 10 ПК, 12 мес., что даёт ~1573 руб. за 1 ПК
-Dr.Web Enterprise Security Suite TL4;Доктор Веб;11330;11330;RUB;per_node;https://allsoft.ru/software/vendors/doktor-web/komplekt-dr-web-small-business/;reseller;коробка «Малый бизнес» серт. ФСТЭК (5 РС + 1 сервер + 5 Android, 12 мес.), на странице статус «временно не поставляется»
+Dr.Web Enterprise Security Suite;Доктор Веб;1573;1573;RUB;per_node;https://www.softmagazin.ru/dr-web/lzz-c-12m-10-a3-fst/;reseller;пересчёт за 1 узел: SKU LZZ-*C-12M-10-A3-FST — комплект на 10 ПК за 15730 руб, 12 мес., сертифицирован ФСТЭК
+Dr.Web Enterprise Security Suite TL4;Доктор Веб;11330;11330;RUB;bundle;https://allsoft.ru/software/vendors/doktor-web/komplekt-dr-web-small-business/;reseller;цена за комплект целиком: коробка «Малый бизнес» серт. ФСТЭК (5 РС + 1 сервер + 5 Android, 12 мес.), статус «временно не поставляется»
 Dr.Web Mobile Security Suite (Аврора);Доктор Веб;674;674;RUB;per_node;https://allsoft.ru/software/vendors/doktor-web/dr-web-mobile-security-suite/;reseller;за 1 мобильное устройство на 12 мес. при покупке от 5 шт. (3370 руб. за 5 устройств)
 Dr.Web Industrial;Доктор Веб;;;RUB;unknown;;NOT_FOUND;проверены store.softline.ru, syssoft.ru, softmagazin.ru, migsoft.ru, infars.ru — везде «цена по запросу»
 Positive Technologies Application Firewall (PT AF);Позитив Текнолоджиз;;;RUB;unknown;;NOT_FOUND;цена только по запросу (allsoft, softline, syssoft)
