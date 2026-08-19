@@ -5,7 +5,9 @@ on:
     branches: [main]
     paths:
       - "data/reg3.csv"
+      - "data/prices.csv"
       - "scripts/build_db.py"
+      - "scripts/merge_prices.py"
       - ".github/workflows/build-db.yml"
   workflow_dispatch:
 
@@ -35,6 +37,14 @@ jobs:
             --db data/szi.sqlite \
             --stats data/stats.json \
             --snapshot-date "${{ steps.snap.outputs.date }}"
+
+      - name: Merge curated prices
+        run: |
+          if [ -f data/prices.csv ]; then
+            python scripts/merge_prices.py --csv data/prices.csv --db data/szi.sqlite
+          else
+            echo "data/prices.csv отсутствует — шаг пропущен"
+          fi
 
       - name: Verify database
         run: |

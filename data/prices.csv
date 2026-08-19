@@ -1,0 +1,63 @@
+product_name;vendor;price_min;price_max;currency;license_model;source_url;source_type;note
+Kaspersky Web Traffic Security;Лаборатория Касперского;1076;1533;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-security-internet-gateway/;reseller;ПАКЕТНАЯ ЦЕНА: отдельного SKU нет, входит в «Kaspersky Security для интернет-шлюзов». За 1 узел в год: 1533 (10-14 узлов) — 1076 (150-249)
+Kaspersky Endpoint Security для Linux;Лаборатория Касперского;3017;3687;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-endpoint-security-dlya-biznesa-standard/;reseller;ПАКЕТНАЯ ЦЕНА: входит в KESB Стандартный. За 1 узел в год: 3687 (10-14) — 3017 (50-99). Продление 2113-2580
+Kaspersky Security для Linux Mail Server;Лаборатория Касперского;1857;2774;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-security-dlya-pochtovykh-serverov/;reseller;ПАКЕТНАЯ ЦЕНА: с 2024 объединён в «Kaspersky Security для почтовых серверов». За 1 ящик в год: 2774 (10-14) — 1857 (50-99)
+Kaspersky Security Center;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;не продаётся отдельно, консоль управления идёт с корпоративными лицензиями
+Kaspersky Security Center совместно с Kaspersky Private Security Network;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;softline: цена по запросу из-за особенностей лицензирования
+Kaspersky Security 9.0 для Microsoft Exchange Servers;Лаборатория Касперского;1857;2774;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-security-dlya-pochtovykh-serverov/;reseller;ПАКЕТНАЯ ЦЕНА текущего объединённого продукта, НЕ версии 9.0. За 1 ящик в год: 2774 (10-14) — 1857 (50-99)
+Kaspersky Endpoint Security для Android;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;отдельной цены нет, активируется лицензией KSC с MDM в составе KESB
+Kaspersky Anti Targeted Attack Platform;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;softline/syssoft/robotx: цена по запросу
+Kaspersky Secure Mail Gateway;Лаборатория Касперского;1857;2774;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-security-dlya-pochtovykh-serverov/;reseller;ПАКЕТНАЯ ЦЕНА: входит в «Kaspersky Security для почтовых серверов». За 1 ящик в год: 2774 (10-14) — 1857 (50-99)
+Kaspersky Industrial CyberSecurity for Nodes;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;softline: цена по запросу, SKU KL4941/KL4943 без цен
+Kaspersky Industrial CyberSecurity for Networks;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;все конфигурации помечены «цена по запросу»
+Kaspersky Endpoint Security для Windows;Лаборатория Касперского;3017;3687;RUB;per_node;https://allsoft.ru/software/vendors/kaspersky-lab/kaspersky-endpoint-security-dlya-biznesa-standard/;reseller;ПАКЕТНАЯ ЦЕНА KESB Стандартный за 1 узел в год: 3687 (10-14), 3126 (25-49), 3017 (50-99). Продление 2113-2580. Расширенный 4378-5349
+Kaspersky Endpoint Security для ОС Аврора;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;публичного прайса нет, только техдокументация
+Kaspersky Endpoint Detection and Response;Лаборатория Касперского;4491;4491;RUB;per_node;https://store.softline.ru/kaspersky/kl4708ratfs-292183/;reseller;KL4708RATFS, EDR Оптимальный, 12 мес., 4491 за узел при 250-499 узлах. Цены для меньших объёмов не раскрыты
+Kaspersky Endpoint Security для Linux (исполнение ARM);Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;реселлеры не разделяют лицензии по архитектуре
+Kaspersky Security для виртуальных сред 6.4 Лёгкий агент;Лаборатория Касперского;2673.9;2673.9;RUB;per_node;https://store.softline.ru/kaspersky/kl4155rasfs-160794/;reseller;KL4155RASFS Desktop (Лёгкий агент), 12 мес., 2673.90 за 1 вирт. рабочую станцию при 150-249. Версия 6.4 на странице явно не указана
+Kaspersky IoT Secure Gateway;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;k-integration: цена по запросу, ПАК на базе Kraftway
+Kaspersky Next Generation Firewall;Лаборатория Касперского;;;RUB;unknown;;NOT_FOUND;все модели KX-100/400/1000/3500 — «запросить цену»
+Secret Net Studio;Код Безопасности;5517;7671;RUB;yearly;https://store.softline.ru/kod-bezopasnosti/kod-bezopasnosti-secret-net-studio/;reseller;за 1 лицензию, зависит от пакета защиты (Базовый/Оптимальный/Максимальный) и объёма 1-50
+vGate R2;Код Безопасности;67500;185940;RUB;per_server;https://www.syssoft.ru/Kod-Bezopasnosti/vGate-R2/773008/;reseller;за 1 физический процессор защищаемого хоста: Standard 67500, Enterprise 115625, Enterprise Plus 185940
+ПАК «Соболь». Версия 4;Код Безопасности;25000;35640;RUB;perpetual;https://cryptostore.ru/catalog/pak-sobol;reseller;электронный замок, цена зависит от исполнения (PCIe/mini PCIe/M.2, с ФДСЧ или без)
+Dallas Lock 8.0-K;Конфидент;7500;7500;RUB;perpetual;https://is.astral.ru/product/sredstva-zashchity-ot-nesanktsionirovannogo-dostupa-nsd/szi-dallas-lock-8-0-k/;reseller;бессрочная за 1 рабочую станцию при закупке 1-10 шт, скидки от 10 шт
+ViPNet Coordinator HW 4;ИнфоТеКС;79092;4021719;RUB;appliance;https://www.syssoft.ru/infotecs/vipnet-coordinator-hw/;reseller;широкий разброс по моделям: HW50 от 79092, HW1000 от 905840, HW2000 от 2427542, HW5000 от 4021719
+Secret Net LSP;Код Безопасности;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки, публичный прайс не подтверждён
+АПКШ «Континент». Версия 3.9;Код Безопасности;;;RUB;appliance;;NOT_FOUND;требует отдельной проверки, поставляется проектно
+Континент TLS-сервер. Версия 2;Код Безопасности;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+Комплекс безопасности «Континент». Версия 4;Код Безопасности;;;RUB;appliance;;NOT_FOUND;требует отдельной проверки, поставляется проектно
+Dallas Lock 8.0-C;Конфидент;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки (версия для гостайны)
+Dallas Lock Linux;Конфидент;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+Средство доверенной загрузки «Dallas Lock»;Конфидент;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+WAF Dallas Lock;Конфидент;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+ViPNet IDS 3;ИнфоТеКС;;;RUB;appliance;;NOT_FOUND;требует отдельной проверки
+ViPNet SafePoint;ИнфоТеКС;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+ViPNet xFirewall 5;ИнфоТеКС;;;RUB;appliance;;NOT_FOUND;требует отдельной проверки
+ViPNet EndPoint Protection;ИнфоТеКС;;;RUB;per_node;;NOT_FOUND;требует отдельной проверки
+ViPNet SafeBoot 3;ИнфоТеКС;;;RUB;unknown;;NOT_FOUND;требует отдельной проверки
+ViPNet Coordinator HW 5;ИнфоТеКС;;;RUB;appliance;;NOT_FOUND;цена HW4 на HW5 не переносится, отдельного прайса не найдено
+ViPNet Coordinator IG 5;ИнфоТеКС;;;RUB;appliance;;NOT_FOUND;требует отдельной проверки
+С-Терра СОВ. Версия 4.3;С-Терра СиЭсПи;;;RUB;unknown;;NOT_FOUND;syssoft.ru: «ЦЕНА ПО ЗАПРОСУ», проверено напрямую
+С-Терра Юнит. Версия 4.3;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;цена по запросу, продажа только юрлицам
+С-Терра Шлюз. Версия 4.3;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;syssoft.ru: «ЦЕНА ПО ЗАПРОСУ», проверено напрямую
+С-Терра Клиент. Версия 4.3;С-Терра СиЭсПи;;;RUB;per_node;;NOT_FOUND;цена по запросу
+С-Терра Шлюз. Версия 5.0;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;цена по запросу
+С-Терра Клиент. Версия 5.0;С-Терра СиЭсПи;;;RUB;per_node;;NOT_FOUND;цена по запросу
+С-Терра Экран-М. Версия 1.0;С-Терра СиЭсПи;;;RUB;appliance;;NOT_FOUND;цена по запросу
+Dr.Web Enterprise Security Suite;Доктор Веб;15730;15730;RUB;per_node;https://www.softmagazin.ru/dr-web/lzz-c-12m-10-a3-fst/;reseller;SKU LZZ-*C-12M-10-A3-FST, сертифицированный ФСТЭК комплект на 10 ПК, 12 мес., что даёт ~1573 руб. за 1 ПК
+Dr.Web Enterprise Security Suite TL4;Доктор Веб;11330;11330;RUB;per_node;https://allsoft.ru/software/vendors/doktor-web/komplekt-dr-web-small-business/;reseller;коробка «Малый бизнес» серт. ФСТЭК (5 РС + 1 сервер + 5 Android, 12 мес.), на странице статус «временно не поставляется»
+Dr.Web Mobile Security Suite (Аврора);Доктор Веб;674;674;RUB;per_node;https://allsoft.ru/software/vendors/doktor-web/dr-web-mobile-security-suite/;reseller;за 1 мобильное устройство на 12 мес. при покупке от 5 шт. (3370 руб. за 5 устройств)
+Dr.Web Industrial;Доктор Веб;;;RUB;unknown;;NOT_FOUND;проверены store.softline.ru, syssoft.ru, softmagazin.ru, migsoft.ru, infars.ru — везде «цена по запросу»
+Positive Technologies Application Firewall (PT AF);Позитив Текнолоджиз;;;RUB;unknown;;NOT_FOUND;цена только по запросу (allsoft, softline, syssoft)
+Positive Technologies Network Attack Discovery (PT NAD);Позитив Текнолоджиз;;;RUB;unknown;;NOT_FOUND;публичной цены нет (softlist, softline, syssoft)
+Positive Technologies Industrial Security Incident Manager (PT ISIM);Позитив Текнолоджиз;;;RUB;unknown;;NOT_FOUND;корпоративный ПАК для АСУ ТП, только запрос цены
+Positive Technologies Sandbox;Позитив Текнолоджиз;;;RUB;unknown;;NOT_FOUND;корпоративный продукт, цена по запросу
+Positive Technologies Next Generation Firewall (PT NGFW);Позитив Текнолоджиз;;;RUB;appliance;;NOT_FOUND;все модели 1010–3040 и VM — «цена по запросу»
+VPN/FW ЗАСТАВА-150;ЭЛВИС-ПЛЮС;;;RUB;appliance;;NOT_FOUND;лицензия и внедрение по запросу (platforms.su, k-integration, open-vision)
+VPN/FW ЗАСТАВА-6000;ЭЛВИС-ПЛЮС;;;RUB;appliance;;NOT_FOUND;цена только по запросу (open-vision, zastava.ru)
+VPN/FW ЗАСТАВА-1500;ЭЛВИС-ПЛЮС;;;RUB;appliance;;NOT_FOUND;цена считается индивидуально
+Мобильное защищённое АРМ «Базовый доверенный модуль»;ЭЛВИС-ПЛЮС;;;RUB;unknown;;NOT_FOUND;поставляется проектно вместе с ЗАСТАВА-Client
+Аккорд-Х К;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;okbsapr.ru — стоимость по запросу
+Аккорд-Win64 K;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;стоимость по запросу, публичных прайсов нет
+ПАК СЗИ НСД Аккорд-Х;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;цена считается индивидуально (open-vision, pro-spec)
+Модуль доверенной загрузки Аккорд-МКТ;ОКБ САПР;;;RUB;unknown;;NOT_FOUND;поставляется в составе микрокомпьютера при производстве
